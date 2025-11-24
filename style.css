@@ -25,7 +25,7 @@ a{
     transition: all 0.3s ease;
 }
 a:hover{
-    color: rgb(81, 10, 146) !important;
+    color: rgb(122, 14, 223) !important;
 }
 
 nav{
@@ -48,7 +48,7 @@ nav{
 
   nav .links a.Active{
     font-weight: 700;
-    color: rgb(81, 10, 146) !important;
+    color: rgb(122, 14, 223) !important;
   }
   .about{
     display: flex;
@@ -97,12 +97,12 @@ nav{
   }
   .about .left .info .buttons button.hire{
      color: #fff !important ;
-     background: rgb(81, 10, 146) ;
+     background: rgb(122, 14, 223) !important;
      border: 1px solid #171717 !important ;
   }
 
   .about .left .info .buttons button.hire:hover{
-    background: rgb(81, 10, 146);
+    background: rgb(122, 14, 223);
   }
   .about .left .info .buttons button.email{
     background-color: #000 !important;
@@ -155,8 +155,8 @@ overflow: hidden;
 
 .project-card:hover {
 transform: translateY(-5px);
-border-color: rgb(81, 10, 146) !important;
-box-shadow: 0 10px 30px rgba(81, 10, 146, 0.3);
+border-color: rgb(122, 14, 223)!important;
+box-shadow: 0 10px 30px rgba(122, 14, 223, 0.3);
 }
 
 .project-card .card-img-top {
